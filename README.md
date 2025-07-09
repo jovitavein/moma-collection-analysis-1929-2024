@@ -6,3 +6,6 @@ Sources:
 	• The Museum of Modern Art (MoMA) | www.moma.org  
 	• Encyclopedia Britannica | https://www.britannica.com/topic/Museum-of-Modern-Art-museum-New-York-City  
 	• Maven Analytics | www.mavenanalytics.io  
+
+Thank you for using this project!  
+Your feedback and contributions are welcome.  
